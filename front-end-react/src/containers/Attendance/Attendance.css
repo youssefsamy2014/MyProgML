@@ -1,0 +1,15 @@
+.cam{
+    width:100%;
+    height:auto;
+   
+}
+.camcon{
+    border:3px solid #2D8EDD;
+    border-radius:7px;
+}
+.container{
+    margin-top:5%;
+    width:40%;
+    height:30%;
+    margin-left:30%;
+}

@@ -1,0 +1,45 @@
+
+.container{
+border-bottom: 1px solid #e0e4e8;
+height:70px;
+width:81%;
+margin-left:19%;
+position:relative;
+box-shadow: 10px 10px 15px 1px #e0e4e8;
+}
+
+.header{
+  
+  color: #2d8edd;
+  display: inline-block;
+  margin-top:20px;
+  margin-left:1%;
+
+}
+
+
+.right{
+  list-style: none;
+  text-decoration: none;
+  margin-left: 80%;  
+  background: rgb(255, 255, 255);
+  position: relative;
+}
+
+.right ul {
+  margin-top: -10%;
+
+}
+.right ul li{
+  display: inline-block;
+  margin:4px;
+}
+
+.right ul li a{
+  color: #398dc5;
+
+}
+
+.right ul li a:hover{
+  color:#0f4979;
+}
